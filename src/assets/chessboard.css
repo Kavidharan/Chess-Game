@@ -1,0 +1,50 @@
+.game{
+    display: flex;
+    justify-content: space-between;
+}
+.game div:last-child{
+    border-left: 2px solid black;
+    width: 50%;
+    background-color: #404040;
+}
+.game div:first-child{
+    min-width: 500px;
+    min-height: 500px;
+    border: #8C8C8C solid 20px;
+    color: black;
+}
+tr td{
+    height: 57.5px;
+    width: 62.5px;
+    border: rgba(0, 0, 0, 0.425),solid,0.001px;
+    border-collapse: collapse;
+}
+.whitePiece{
+    color: #f2f2f2c0;
+    font-size: 45px;
+    text-align: center;
+}
+.blackPiece{
+    color: #0d0d0dbe;
+    font-size: 45px;
+    text-align: center;
+}
+.blackPiece , .whitePiece:hover{
+    cursor: pointer;
+}
+.whitePiece:hover{
+    color: #F2F2F2;
+}
+.blackPiece:hover{
+    color: #0D0D0D;
+}
+.select{
+    background-color: #7ef1d5d8;
+}
+.move{
+    background-color: #3e4b48d8;
+
+}
+.check{
+    outline: red 3px solid;
+}

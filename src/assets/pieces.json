@@ -1,0 +1,14 @@
+    {
+        "White_King" : "&#9812;",
+        "White_Queen" : "&#9813;",
+        "White_Rook" : "&#9814;",
+        "White_Bishop" : "&#9815;",
+        "White_Knight" : "&#9816;",
+        "White_Pawn" : "&#9817;",
+        "Black_King" : "&#9818;",
+        "Black_Queen" : "&#9819;",
+        "Black_Rook" : "&#9820;",
+        "Black_Bishop" : "&#9821;",
+        "Black_Knight" : "&#9822;",
+        "Black_Pawn" : "&#9823;"
+    }
